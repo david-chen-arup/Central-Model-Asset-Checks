@@ -1,0 +1,4 @@
+polyline,x,y,z,acceptance_criteria,internal diameter,wall thickness,pipe_segment_length
+EUS-01-0038_FADD_segment-1,291143.1838,288905.651,32.8095,CI,101.6,9.906,1.0
+EUS-01-0038_FADD_segment-1,291154.3659,288895.2433,32.7408,CI,101.6,9.906,1.0
+EUS-01-0038_FADD_segment-1,291163.9545,288902.9523,32.6445,CI,101.6,9.906,1.0
