@@ -82,7 +82,7 @@ def process_polyline(row, output_folder):
             'x': x,
             'y': y,
             'z': z,
-            'acceptance_criteria': row.get('Material', ''),
+            'acceptance_criteria': row.get('Acceptance Criteria', ''),
             'internal diameter': row.get('Internal diameter', ''),
             'wall thickness': row.get('Wall thickness', ''),
             'pipe_segment_length': row.get('Pipe Segment Length', '')
